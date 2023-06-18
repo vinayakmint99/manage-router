@@ -13,3 +13,5 @@ Update database connection in application/config/database.php
 Import attached router.sql file in your MySQL database.
 
 Follow excel format as given host-data.xlsx to bulk import# manage-router
+
+Give write permmision to the folder documents/
